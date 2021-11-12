@@ -1,7 +1,5 @@
-# Welcome to the Ontario Tech Teaching and Education Repository (OTTER) Tookit
+# Welcome to the Ontario Tech Teaching and Education Repository (OTTER) Tookit Used by Jeffrey
 
-
-// Jeffrey
 ## Overview
 
 The _OTTER_ toolkit is a collection of libraries and tools that aims to aid educators in teaching graphics and other game programming concepts.
