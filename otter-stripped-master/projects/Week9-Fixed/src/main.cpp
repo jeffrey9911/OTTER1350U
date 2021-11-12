@@ -119,6 +119,10 @@ void GlfwWindowResizedCallback(GLFWwindow* window, int width, int height) {
 	}
 }
 
+
+
+
+
 /// <summary>
 /// Handles intializing GLFW, should be called before initGLAD, but after Logger::Init()
 /// Also handles creating the GLFW window
