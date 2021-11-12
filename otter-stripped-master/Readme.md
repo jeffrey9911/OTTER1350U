@@ -1,4 +1,4 @@
-# Welcome to the Ontario Tech Teaching and Education Repository (OTTER) Tookit Used by Jeffrey
+# Welcome to the Ontario Tech Teaching and Education Repository (OTTER) Tookit
 
 ## Overview
 
