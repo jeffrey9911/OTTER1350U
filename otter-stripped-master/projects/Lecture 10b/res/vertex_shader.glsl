@@ -22,10 +22,10 @@ void main() {
 	// Lecture 10b
 
 	vec3 vert = vertex_pos;
-	//vert.y = texture(myTextureSampler, vertex_uv).r;
+	vert.y = texture(myTextureSampler, vertex_uv).r;
 
 	// Sin animation
-	vert.y = sin(vert.x * 5.0 + delta) * 0.2;
+	vert.y = sin(vert.y * 5.0 + delta) * 0.2;
 
 
 

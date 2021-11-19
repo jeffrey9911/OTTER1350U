@@ -36,7 +36,7 @@ bool initGLFW() {
 	}
 
 	//Create a new GLFW window
-	window = glfwCreateWindow(800, 800, "Window", nullptr, nullptr);
+	window = glfwCreateWindow(800, 800, "INFR1350U-Jeffrey-Li-100712344", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
 
 	return true;
@@ -48,6 +48,7 @@ bool initGLAD() {
 		return false;
 	}
 }
+
 
 
 GLuint shader_program;
@@ -309,6 +310,7 @@ int main() {
 
 	loadImage("fence.png");
 	
+
 	GLuint textureHandle;
 
 	 
