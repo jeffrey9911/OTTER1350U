@@ -10,7 +10,7 @@ void main() {
 
 	// Lecture 10
 	vec4 tex = texture(myTextureSampler, texUV);
-	if(tex.r < 0.01)
+	if(tex.r == 0.0)
 	{
 		discard;
 	}
